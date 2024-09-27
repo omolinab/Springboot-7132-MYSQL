@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PROJECT=business-application
-DATABASE=mysql
+DATABASE=h2
 
 export M2_HOME=$HOME/.m2
 
